@@ -1,5 +1,6 @@
-## Hi there 👋
-
+# Hi, I’m Aya Mannai! 👋
+- 🌱 I’m currently learning web development and AI.
+- 📚 Studying at University of Tunis El Manar.
 <!--
 **aya-a11y/aya-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
